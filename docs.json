@@ -37,9 +37,8 @@
   },
   "navbar": {
     "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "type": "discord",
+      "href": "https://discord.gg/sourlabs"
     }
   },
   "contextual": {
