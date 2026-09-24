@@ -49,12 +49,7 @@
     "options": [
       "copy",
       "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
+      "assistant"
     ]
   },
   "description": "The documentation for Sour Labs. The one-point hub to find any information and learn how to use a system.",
